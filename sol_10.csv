@@ -1,0 +1,6 @@
+house_id,name,description,house_type,furnishing_type,Total_Occupacy
+1,Zaanz appartment,"Sterling BrookSide, Opp. Kundalahalli Colony, ITPL Main Rd",Apartment,unfurnished,3
+7,UDB Building,Flat No: T1 Deccan Field Appartment Kunadanhalli main road,Apartment,semifurnished,3
+8,Apoorva society,"Flat No-202, Apoorva Apartment No-296 Vyalikaval House Building Cooperative Society Ltd Nagavara",Apartment,fully-furnished,3
+14,Nestaway building,"#157, 4th Cross, 1st Main Road, Lower Palace Orchard",Apartment,fully-furnished,3
+16,Indira society,"No. 502, Indira Meadows, Arunodaya Colony",Apartment,fully-furnished,3

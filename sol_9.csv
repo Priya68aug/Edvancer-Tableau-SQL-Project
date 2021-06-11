@@ -1,0 +1,12 @@
+profile_id,full name,phone,city,bed_type,house_type,furnishing_type,bhk_type,bed_count,beds_vacant
+1,anusha pariti,8105987404,Bangalore,bed,Independent,fully-furnished,4 BHK,4,2
+4,Garima yadav,8105923700,Bangalore,bed,Apartment,unfurnished,3 BHK,5,2
+7,Kamal gera,8105987404,Bangalore,bed,Apartment,semifurnished,3 BHK,3,1
+8,Tushar kapoor,8926537154,Pune,bed,Apartment,semifurnished,3 BHK,3,0
+11,Deepa sudhakar,7896785432,Pune,bed,Independent,fully-furnished,3 BHK,3,1
+14,Manisha Yadav,9867845182,Delhi,room,Independent,fully-furnished,2 BHK,2,1
+15,Shivani godha,9878673428,Delhi,bed,Independent,unfurnished,2 BHK,4,2
+16,Rajan pandey,8987647811,delhi,bed,Independent,fully-furnished,3 BHK,3,1
+17,Roosena manuel,9875623345,Delhi,room,Apartment,fully-furnished,3 BHK,3,0
+18,Prabhjot gill,9800786688,Delhi,bed,Apartment,fully-furnished,3 BHK,3,0
+19,Ankita sharma,9988789656,Delhi,bed,Independent,unfurnished,1 BHK,2,2
